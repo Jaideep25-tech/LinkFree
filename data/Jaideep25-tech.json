@@ -1,0 +1,20 @@
+{
+  "name": "Jaideep Singh",
+  "type": "personal",
+  "displayStatsPublic": true,
+  "bio": "Full Stack **Flutter** developer | Open Source Advocate | Freelancer | Mentor",
+  "tags": [
+    "Flutter",
+    "Open Source",
+    "Full Stack Cross Platform Mobile Application Development",
+    "Firebase",
+    "Java",
+    "Javascript",
+    "Github" 
+  ],
+  "socials": [
+    { "platform": "github", "url": "https://github.com/Pradumnasaraf" },
+    { "platform": "instagram", "url": "https://twitter.com/pradumna_saraf" },
+    { "platform": "website", "url": "https://pradumnasaraf.dev" }
+  ],
+  "avatar": "https://github.com/Jaideep25-tech.png",
