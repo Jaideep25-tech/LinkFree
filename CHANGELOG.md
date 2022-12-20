@@ -1,45 +1,45 @@
-## [1.23.4](https://github.com/EddieHubCommunity/LinkFree/compare/v1.23.3...v1.23.4) (2022-12-15)
+## [1.24.9](https://github.com/EddieHubCommunity/LinkFree/compare/v1.24.8...v1.24.9) (2022-12-19)
 
 
 ### Bug Fixes
 
-* json in testimonials ([2f89053](https://github.com/EddieHubCommunity/LinkFree/commit/2f8905308ae7e96149ecc0f5632c89c13ea5b8a1))
+* text contrast ratio on UserLink ([#2424](https://github.com/EddieHubCommunity/LinkFree/issues/2424)) ([e0b4cc5](https://github.com/EddieHubCommunity/LinkFree/commit/e0b4cc59777d2d98d72d93cf164141458ec76176))
 
 
 
-## [1.23.3](https://github.com/EddieHubCommunity/LinkFree/compare/v1.23.2...v1.23.3) (2022-12-14)
-
-
-### Bug Fixes
-
-* main page will grow ([#2395](https://github.com/EddieHubCommunity/LinkFree/issues/2395)) ([37baab6](https://github.com/EddieHubCommunity/LinkFree/commit/37baab6b90291b8e59c33b1d6683301827636b44))
-
-
-
-## [1.23.2](https://github.com/EddieHubCommunity/LinkFree/compare/v1.23.1...v1.23.2) (2022-12-13)
+## [1.24.8](https://github.com/EddieHubCommunity/LinkFree/compare/v1.24.7...v1.24.8) (2022-12-16)
 
 
 ### Bug Fixes
 
-* remove file for testing ([0313cad](https://github.com/EddieHubCommunity/LinkFree/commit/0313cad411b43101732042ec5ffa405c109b2abf))
+* gh action secret ([a93ed77](https://github.com/EddieHubCommunity/LinkFree/commit/a93ed77a1d9524d4c3f11d5e67703d3da5a13c99))
 
 
 
-## [1.23.1](https://github.com/EddieHubCommunity/LinkFree/compare/v1.23.0...v1.23.1) (2022-12-13)
+## [1.24.7](https://github.com/EddieHubCommunity/LinkFree/compare/v1.24.6...v1.24.7) (2022-12-16)
 
 
 ### Bug Fixes
 
-* issue config for question ([f800369](https://github.com/EddieHubCommunity/LinkFree/commit/f800369747f1ff4833825ffd737cf053b558cc27))
+* prettier event trigger ([106f27f](https://github.com/EddieHubCommunity/LinkFree/commit/106f27f89f742d1718bba3818b92149c87336b34))
 
 
 
-# [1.23.0](https://github.com/EddieHubCommunity/LinkFree/compare/v1.22.4...v1.23.0) (2022-12-13)
+## [1.24.6](https://github.com/EddieHubCommunity/LinkFree/compare/v1.24.5...v1.24.6) (2022-12-16)
 
 
-### Features
+### Bug Fixes
 
-* move testimonials data [#2384](https://github.com/EddieHubCommunity/LinkFree/issues/2384) ([#2385](https://github.com/EddieHubCommunity/LinkFree/issues/2385)) ([679e47f](https://github.com/EddieHubCommunity/LinkFree/commit/679e47fcc0d4d752641680cbc44bd77df73ec489))
+* gh action for json validate ([d041f87](https://github.com/EddieHubCommunity/LinkFree/commit/d041f87ecdf9a151008238e447b08aa87d94412f))
+
+
+
+## [1.24.5](https://github.com/EddieHubCommunity/LinkFree/compare/v1.24.4...v1.24.5) (2022-12-16)
+
+
+### Bug Fixes
+
+* prettier not on pull requests ([0523900](https://github.com/EddieHubCommunity/LinkFree/commit/052390079b42bd3e79172654b6cbe2edf0f037ae))
 
 
 
